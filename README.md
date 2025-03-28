@@ -1,0 +1,2 @@
+# Digital-Twin-for-Fault-Diagnosis-and-Monitoring-in-Smart-Electrical-Systems
+This project implements a Digital Twin for fault diagnosis and real-time monitoring of smart electrical systems. The system uses machine learning models to predict faults based on sensor data collected from an Arduino Uno. The project aims to improve reliability and reduce downtime in electrical systems by enabling early fault detection.
