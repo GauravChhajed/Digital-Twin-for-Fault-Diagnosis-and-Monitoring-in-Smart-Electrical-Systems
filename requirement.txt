@@ -1,0 +1,9 @@
+flask
+joblib
+matplotlib
+numpy
+pandas
+pickle
+pyserial
+scikit-learn
+serial
