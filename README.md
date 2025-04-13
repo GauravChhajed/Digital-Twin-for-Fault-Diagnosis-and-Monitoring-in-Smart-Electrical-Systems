@@ -41,8 +41,8 @@ This project implements a **Digital Twin** for **fault diagnosis and real-time m
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/Digital-Twin-Fault-Diagnosis.git
-cd Digital-Twin-Fault-Diagnosis
+git clone https://GauravChhajed/Digital-Twin-for-Fault-Diagnosis-and-Monitoring-in-Smart-Electrical-Systems.git
+cd Digital-Twin-for-Fault-Diagnosis-and-Monitoring-in-Smart-Electrical-Systems
 ```
 
 ### 2️⃣ Install Dependencies
